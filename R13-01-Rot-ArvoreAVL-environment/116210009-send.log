@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-02-19T14:09:29.262-0300</date>
+  <logger>GABRIEL ALMEIDA AZEVEDO</logger>
+  <level>FINE</level>
+  <message>File 116210009-GABRIEL ALMEIDA AZEVEDO.zip was received. It was sent by GABRIEL ALMEIDA AZEVEDO from IP 150.165.42.158</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-02-19T16:56:38.389-0300</date>
+  <logger>GABRIEL ALMEIDA AZEVEDO</logger>
+  <level>FINE</level>
+  <message>File 116210009-GABRIEL ALMEIDA AZEVEDO.zip was received. It was sent by GABRIEL ALMEIDA AZEVEDO from IP 192.168.1.7</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-02-19T19:31:17.869-0300</date>
+  <logger>GABRIEL ALMEIDA AZEVEDO</logger>
+  <level>FINE</level>
+  <message>File 116210009-GABRIEL ALMEIDA AZEVEDO.zip was received. It was sent by GABRIEL ALMEIDA AZEVEDO from IP 192.168.1.7</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-02-19T23:10:13.624-0300</date>
+  <logger>GABRIEL ALMEIDA AZEVEDO</logger>
+  <level>FINE</level>
+  <message>File 116210009-GABRIEL ALMEIDA AZEVEDO.zip was received. It was sent by GABRIEL ALMEIDA AZEVEDO from IP 192.168.1.7</message>
+</record>
