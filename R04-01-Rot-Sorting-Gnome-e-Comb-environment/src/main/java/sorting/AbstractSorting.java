@@ -9,6 +9,7 @@ public abstract class AbstractSorting<T extends Comparable<T>> implements
 	}
 
 	/**
+	 * 
 	 * This method sorts an interval of the array, starting in leftIndex and
 	 * ending in rightIndex, both inclusive.
 	 * You do not have to worry about null values inside the array. 
